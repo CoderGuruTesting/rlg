@@ -24,7 +24,7 @@ let towers = {
             "Farm",
             "Trapper",
             "Pyromancer",
-            "Ace pilot",
+            "Ace Pilot",
             "Golden Crook Boss",
             "Golden Pyromancer"
         ],

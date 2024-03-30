@@ -1,0 +1,10 @@
+**starter**
+scout, sniper, soldier, paintballer, demoman, hunter, / gs, gsold
+**intermediate**
+crook boss, militant, medic, freezer, rocketeer, shotgunner, military base, farm, trapper, pyromancer, ace pilot, / gcb, gp
+**advanced**
+mortar, turret, pursuit, electroshocker, commander, warden, cowboy, dj, minigunner, ranger, / gcow, gmini
+**exclusive**
+cryomancer, executioner, archer, sledger, gladiator, toxic gunner, frost blaster, elf camp, jester, necromancer, commando, swarmer
+**hardcore**
+accelerator, engineer

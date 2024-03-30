@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.section {
+    width: 100vw;
+}
+
+.header {
+    margin-top: 20px;
+    margin-left: 20px;
+
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.options {
+    width: 100vw;
+
+    padding-top: 20px;
+    padding-left: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.option {
+    display: flex;
+
+    /* width: 150px; */
+
+    justify-content: space-between;
+
+    margin-right: 45px;
+    margin-bottom: 20px;
+}
+
+.optionText {
+    font-size: 20px;
+
+    margin-right: 10px;
+}
+
+.optionCheck {
+    width: 30px;
+}
+
+.generate {
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+    padding: 20px;
+
+    font-size: 20px;
+
+    cursor: pointer;
+}

@@ -1,1 +1,40 @@
 <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>TDS Random Loadout Generator</title>
+        <meta name='description' content=''>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' href='style.css'>
+        <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.15.1/css/all.css' integrity='sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp' crossorigin='anonymous'>
+        <script src='https://kit.fontawesome.com/a2406e7df8.js' crossorigin='anonymous'></script> 
+        <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+    </head>
+    <body>
+        <div class="section" id="starter">
+            <div class="header">Starter: </div>
+            <div class="options" id = "starterOptions"></div>
+        </div>
+        <div class="section" id="intermediate">
+            <div class="header">Intermediate: </div>
+            <div class="options" id = "intermediateOptions"></div>
+        </div>
+        <div class="section" id="advanced">
+            <div class="header">Advanced: </div>
+            <div class="options" id = "advancedOptions"></div>
+        </div>
+        <div class="section" id="hardcore">
+            <div class="header">Hardcore: </div>
+            <div class="options" id = "hardcoreOptions"></div>
+        </div>
+        <div class="section" id="exclusive">
+            <div class="header">Exclusive: </div>
+            <div class="options" id = "exclusiveOptions"></div>
+        </div>
+
+        <button class="generate">Generate</button>
+        
+        <script src='script.js' async defer></script>
+    </body>
+</html>
